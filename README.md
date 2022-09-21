@@ -1,4 +1,4 @@
-# Resource-for-Dev
+# Resource-for-Development
 
 A List of resource development
 
