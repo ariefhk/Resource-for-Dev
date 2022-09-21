@@ -23,3 +23,9 @@ A List of resource development
 - [Daftar API Lokal](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 
   ![MarineGEO circle logo](/Sample/apilokal.gif)
+  
+## ORM📦
+- [Prisma](https://www.prisma.io/)
+
+## State-Management📪
+- [Redux](https://redux.js.org/)
