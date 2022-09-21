@@ -2,6 +2,8 @@
 
 A List of resource development
 
+- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+
 - [SVG Logo](https://www.logo.wine/)
 
   ![MarineGEO circle logo](/Sample/logowine.gif)
