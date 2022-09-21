@@ -18,6 +18,8 @@ A List of resource development
   ![MarineGEO circle logo](/Sample/simpleicons.gif)
 
 ## API🌐
+- [BMKG API](https://data.bmkg.go.id/#data)
+- [Covid-19 API Indonesia](https://covid19.go.id/dokumentasi-api)
 - [Daftar API Lokal](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 
   ![MarineGEO circle logo](/Sample/apilokal.gif)
