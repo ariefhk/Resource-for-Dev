@@ -12,6 +12,7 @@ A List of resource development
 - [Dummy Image](https://github.com/ariefhk/Image_and_dummy_pict)
 
 ## API🌐
+- [MyQuran API](https://documenter.getpostman.com/view/841292/Tz5p7yHS#33fba644-454e-4f45-96e3-bc1ce87b0629)
 - [BMKG API](https://data.bmkg.go.id/#data)
 - [Covid-19 API Indonesia](https://covid19.go.id/dokumentasi-api)
 - [Daftar API Lokal](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
