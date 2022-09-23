@@ -10,6 +10,7 @@ A List of resource development
 - [Boostrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Tailwind](https://tailwindcss.com/docs/installation)
 - [Dummy Image](https://github.com/ariefhk/Image_and_dummy_pict)
+- [Flowbite](https://flowbite-react.com/)
 
 ## API🌐
 - [MyQuran API](https://documenter.getpostman.com/view/841292/Tz5p7yHS#33fba644-454e-4f45-96e3-bc1ce87b0629)
