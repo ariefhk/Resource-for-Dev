@@ -13,6 +13,7 @@ A List of resource development
 - [Flowbite](https://flowbite-react.com/)
 - [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)
 - [JPG to PNG]
+- [IconScout](https://iconscout.com/)
 
 ## API🌐
 - [MyQuran API](https://documenter.getpostman.com/view/841292/Tz5p7yHS#33fba644-454e-4f45-96e3-bc1ce87b0629)
