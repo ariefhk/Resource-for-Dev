@@ -5,17 +5,21 @@ A List of resource development
 ## Managing👨‍💼
 - [Trello](https://trello.com/en)
 
-## ReactJs⚛
+## ReactJs Utility⚛
 - [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)
 - [Flowbite ReactJs](https://flowbite-react.com/)
 - [React Boostrap](https://react-bootstrap.github.io/)
 
-## Styling💅
-- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+## Styled Component🎁
 - [Boostrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Tailwind](https://tailwindcss.com/docs/installation)
+- [Flowbite (based tailwind)](https://flowbite-react.com/)
+- [Tailwind Component](https://tailwindcomponents.com/)
+- [Tailwind Elements](https://tailwind-elements.com/)
+
+## Styling Resource💅
+- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
 - [Dummy Image](https://github.com/ariefhk/Image_and_dummy_pict)
-- [Flowbite](https://flowbite-react.com/)
 - [IconScout](https://iconscout.com/)
 
 ## API🌐
@@ -26,6 +30,7 @@ A List of resource development
   
 ## ORM📦
 - [Prisma](https://www.prisma.io/)
+- [Sequielize](https://sequelize.org/)
 
 ## State-Management📪
 - [Redux](https://redux.js.org/)
