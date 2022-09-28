@@ -5,6 +5,9 @@ A List of resource development
 ## Managing👨‍💼
 - [Trello](https://trello.com/en)
 
+## Task Management⚒
+- [Github Project Docs](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
+
 ## ReactJs Utility⚛
 - [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)
 - [Flowbite ReactJs](https://flowbite-react.com/)
