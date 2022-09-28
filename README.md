@@ -19,6 +19,9 @@ A List of resource development
 - [Flowbite (based tailwind)](https://flowbite-react.com/)
 - [Tailwind Component](https://tailwindcomponents.com/)
 - [Tailwind Elements](https://tailwind-elements.com/)
+- [Bulma](https://bulma.io/)
+- [Material Design](https://material.io/)
+- [Ant Design](https://ant.design/)
 
 ## Styling Resource💅
 - [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
