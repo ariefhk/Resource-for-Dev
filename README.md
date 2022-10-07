@@ -34,6 +34,7 @@ A List of resource development
 - [Covid-19 API Indonesia](https://covid19.go.id/dokumentasi-api)
 - [Daftar API Lokal](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 - [News Api](https://newsapi.org/)
+- [Random User](https://randomuser.me/documentation)
   
 ## ORM📦
 - [Prisma](https://www.prisma.io/)
